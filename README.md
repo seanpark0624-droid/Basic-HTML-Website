@@ -9,7 +9,7 @@
 </ul>
 <p>The website should have a navigation bar that should be present on all pages and link to all the pages.</p>
 <h2>Source of the Project</h2>
-<link>[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/basic-html-website)</link>
+<link>https://roadmap.sh/projects/basic-html-website</link>
 <h3>My own project preview</h3>
 <a href="">here</a>
 <h2>How to run the project:</h2>
