@@ -11,7 +11,7 @@
 <h2>Source of the Project</h2>
 <link>https://roadmap.sh/projects/basic-html-website</link>
 <h3>My own project preview</h3>
-<a href="http://htmlpreview.github.io/?https://github.com/seanpark0624-droid/Basic-HTML-Website/blob/1357f534e6ca85c58d47e754467b5dfbc3509c3d/index.html">here</a>
+<a href="https://seanpark0624-droid.github.io/Basic-HTML-Website/">here</a>
 <h2>How to run the project:</h2>
 <ol>
   <li>Open <code>index.html</code> file and <code>styles.css</code> file.</li>
