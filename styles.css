@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1000px;
+    width: 1000px;
     margin: 0 auto;
     border: 2px solid black;
 }
@@ -242,4 +242,8 @@ article a {
     font-variation-settings:
         "MORF" 15,
         "SHLN" 50;
+}
+
+* {
+    box-sizing: border-box;
 }
