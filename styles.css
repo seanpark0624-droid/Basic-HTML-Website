@@ -247,3 +247,7 @@ article a {
 * {
     box-sizing: border-box;
 }
+
+.who {
+    color: gray;
+}
