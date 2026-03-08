@@ -86,7 +86,7 @@ body {
     flex-direction: column;
     padding: 20px 30px;
     border-right: 2px solid black;
-    min-height: 70vh;
+    min-height: 600px;
 }
 
 .project .subtitle {
